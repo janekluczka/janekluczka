@@ -5,5 +5,5 @@
 - 🎓 Master's student at **Wrocław University of Science and Technology**.
 - 📱 Android Developer at **Yumasoft**.
 - ⚙️ I use daily: `.kt`, `.java`, `.gradle`, `.xml` & more.
-- 🚀 Currently started exploring Flutter & web development.
+- 🚀 Currently started improving my web development skills & exploring Flutter.
 - 🌴 I enjoy: 🏀 Basketball, ⚽ Football, 🎮 Gaming.
